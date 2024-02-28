@@ -1,2 +1,7 @@
-class PagesController < ApplicationController
-end
+class PagesController < ApplicationController 
+
+    def home
+    end
+  
+  end
+  
